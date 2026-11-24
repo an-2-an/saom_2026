@@ -1,0 +1,5 @@
+id,power_kw,fuel_l,consumption_lph
+G1,5,40,2.4
+G2,8,50,2.4
+G3,10,70,2.1
+G4,15,60,2.1
